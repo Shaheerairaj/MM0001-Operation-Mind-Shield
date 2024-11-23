@@ -1,0 +1,3 @@
+*.py
+submissions/**/.ipynb_checkpoints
+**/catboost_info

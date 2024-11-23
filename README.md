@@ -94,13 +94,14 @@ When using free and open-source code or datasets, it is best practice to cite th
 
 Please cite this dataset in your notebooks as follows:
 
-```
-@misc{rabie_el_kharoua_2024,
-title={Alzheimer's Disease Dataset},
-url={https://www.kaggle.com/dsv/8668279},
-DOI={10.34740/KAGGLE/DSV/8668279},
-publisher={Kaggle},
-author={Rabie El Kharoua},
-year={2024}
-}
-```
+**Title:** Alzheimer's Disease Dataset
+
+**url:** https://www.kaggle.com/dsv/8668279
+
+**DOI:** 10.34740/KAGGLE/DSV/8668279
+
+**Publisher:** Kaggle
+
+**Author:** Rabie El Kharoua
+
+**Year:** 2024
